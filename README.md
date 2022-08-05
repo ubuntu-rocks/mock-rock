@@ -1,4 +1,7 @@
-# mock-rock
-Exemplary repository to demonstrate the expected structure of the ROCK repositories within this organization.
+# mock-one and mock-two
 
-Feel free to use this repository as a template for structuring your own ROCK repository. The `mock-rock` is not a public ROCK, but instead a dummy repository to mock a real ROCK repository. The organization's workflows perform dry-runs against this `mock-rock` to ensure the CI/CD pipelines are functional and healthy.
+It is always useful to have some information about the ROCKs
+that are present in a branch. Although not mandatory, we recommend 
+having README.md files on every `channel` branch, explaining the 
+contents of that ROCK project.
+
